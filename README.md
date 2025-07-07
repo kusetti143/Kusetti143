@@ -15,7 +15,6 @@
 - 💬 Ask me about **Python, Data Science, Machine Learning, AI**
 - 📫 How to reach me: kusettibalaji@gmail.com
 - 📱 Mobile: 9014191077
-- ⚡ Fun fact: I love turning data into actionable insights!
 
 ---
 
